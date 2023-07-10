@@ -35,11 +35,9 @@ The Number Plate Detector App is a software application developed using C++, Ope
 
 - Launch the application by running the generated executable file.
 - The GUI window will appear, providing options to load an image or start a video stream.
-- If you choose to load an image, click on the "Load Image" button and select the desired image file.
-- If you want to process a video stream, click on the "Start Video" button. A window will open displaying the video feed from your default camera.
 - The app will automatically detect number plates in the provided image or video stream and draw bounding boxes around them.
 - If the number plate is successfully recognized, the extracted characters will be displayed next to the bounding box.
- You can save the processed image or video stream with the detected number plates by clicking on the "Save" button.
+- You can save the processed image or video stream with the detected number plates by clicking on the "Save" button.
 
 
 ## Contributing
